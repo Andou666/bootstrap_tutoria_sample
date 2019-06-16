@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap_tutorial_sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "elm": "^0.19.0"
+  },  
+  "scripts": {
+    "build": "elm make main.elm --output index.html"
+  },
+  "license": "MIT"
+}
